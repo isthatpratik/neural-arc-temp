@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function nod() {
   return (
-    <section className="w-full pb-10">
+    <section className="w-full">
       <div className="mx-auto px-6">
         <div className="flex flex-col items-center text-center gap-12">
 

@@ -12,7 +12,7 @@ import Footer from "./components/footer";
 export default function Home() {
   return (
     <>
-    <main className="max-w-[1920px] mx-auto px-6 py-4 grain">
+    <main className="max-w-[1920px] mx-auto px-6 py-4 grain-texture">
       <Hero />
       <Orb />
       <OrbTabs />

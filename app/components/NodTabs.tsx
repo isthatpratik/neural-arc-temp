@@ -6,7 +6,7 @@ export default function NodTabs() {
       <div className="mx-auto px-6">
         {/* Desktop Tabs */}
         <div className="hidden lg:block">
-          <div className="relative w-[1716px] h-[1590px] mx-auto">
+          <div className="relative w-[1716px] h-[1494px] mx-auto">
             <Image
               src="/images/nod-tabs.png"
               alt="NOD Features"

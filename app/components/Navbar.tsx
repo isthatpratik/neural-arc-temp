@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 
 export default function Navbar() {
   return (
-    <nav className="max-w-[1920px] mx-auto px-6 py-4 flex items-center justify-between">
+    <nav className="max-w-[1920px] mx-auto px-6 pt-8 pb-4 flex items-center justify-between">
       <Link href="/">
         <Image
           src="/images/neural-arc.svg"
